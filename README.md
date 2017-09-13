@@ -5,5 +5,4 @@
 [alias]
   graph = log --graph --format='unreadable'
 ```
-
-Yo mom
+This is a JOKE.

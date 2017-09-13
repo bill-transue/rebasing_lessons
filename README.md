@@ -6,6 +6,4 @@
   graph = log --graph --format='unreadable'
 ```
 
-
-we are the contractors for DCHBX
-
+we are the contractors

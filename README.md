@@ -3,7 +3,7 @@
 `~/.gitconfig`
 ```
 [alias]
-  graph = log --graph --format='%ar %Cred%h%Creset%d %Cgreen%s %Cblue%an'
+  graph = log --graph --format='unreadable'
 ```
 
 we are the contractors for DCHBX

@@ -6,4 +6,4 @@
   graph = log --graph --format='unreadable'
 ```
 
-Yo mom
+A doctor tells a woman she can no longer touch anything alcoholic. So she gets a divorce.
